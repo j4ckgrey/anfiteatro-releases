@@ -25,7 +25,7 @@ services:
     image: j4ckgrey/anfiteatro_releases:latest
     container_name: anfiteatro
     ports:
-      - "6661:6661"
+      - "6661:80"
     restart: unless-stopped
 ```
 ### Hosted Instance
