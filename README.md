@@ -18,12 +18,6 @@ The recommended public image is on Docker Hub:
 ```bash
 docker pull j4ckgrey/anfiteatro_releases:latest
 ```
-
-Alternatively, from GHCR (requires setting to Public in GitHub UI):
-```bash
-docker pull ghcr.io/j4ckgrey/anfiteatro_releases:latest
-```
-
 ### Hosted Instance
 You can access the latest beta server instance from the hosted instance on Vercel:
 ```bash
