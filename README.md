@@ -31,6 +31,6 @@ Download the `.apk` from the **Releases** section on the right.
 ## 💬 Community & Support
 
 - 🐞 **Bugs & Issues:** [GitHub Issues](https://github.com/j4ckgrey/anfiteatro_releases/issues)  
-- 💡 **Discussions:** [GitHub Discussions](https://discordapp.com/channels/1433689453158862943/1441378427239137300)  
+- 💡 **Discussions:** [Discord](https://discordapp.com/channels/1433689453158862943/1441378427239137300)  
 - 💡 **Support:** If you like my work and want to support development, consider buying me a coffee:👉 https://ko-fi.com/j4ckgrey
 ---
