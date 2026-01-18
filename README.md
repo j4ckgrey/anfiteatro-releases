@@ -1,6 +1,5 @@
 <div align="center">
   <img src="Anfiteatro_name_below.png" alt="Anfiteatro Logo" width="200" />
-  <h1>Anfiteatro</h1>
   <p>
     <b>A media streaming client compatible with Jellyfin and Remux Server.</b>
   </p>
