@@ -17,6 +17,17 @@ The recommended public image is on Docker Hub:
 ```bash
 docker pull j4ckgrey/anfiteatro_releases:latest
 ```
+
+#### Docker Compose
+```yaml
+services:
+  anfiteatro:
+    image: j4ckgrey/anfiteatro_releases:latest
+    container_name: anfiteatro
+    ports:
+      - "6661:6661"
+    restart: unless-stopped
+```
 ### Hosted Instance
 You can access the latest beta server instance from the hosted instance on Vercel:
 ```bash
