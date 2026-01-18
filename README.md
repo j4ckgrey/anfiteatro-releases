@@ -14,7 +14,12 @@
 This repository tracks the public releases of Anfiteatro.
 
 ### Docker Image
-You can pull the latest beta server image from GHCR:
+The recommended public image is on Docker Hub:
+```bash
+docker pull j4ckgrey/anfiteatro_releases:latest
+```
+
+Alternatively, from GHCR (requires setting to Public in GitHub UI):
 ```bash
 docker pull ghcr.io/j4ckgrey/anfiteatro_releases:latest
 ```
@@ -31,7 +36,7 @@ Download the `.apk` from the **Releases** section on the right.
 ---
 ## 💬 Community & Support
 
-- 🐞 **Bugs & Issues:** [GitHub Issues](https://github.com/j4ckgrey/Cavea/issues)  
+- 🐞 **Bugs & Issues:** [GitHub Issues](https://github.com/j4ckgrey/anfiteatro_releases/issues)  
 - 💡 **Discussions:** [GitHub Discussions](https://discordapp.com/channels/1433689453158862943/1441378427239137300)  
 - 💡 **Support:** If you like my work and want to support development, consider buying me a coffee:👉 https://ko-fi.com/j4ckgrey
 ---
