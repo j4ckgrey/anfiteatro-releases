@@ -46,6 +46,8 @@ docker pull j4ckgrey/anfiteatro:latest
 ```yaml
 services:
   anfiteatro:
+    #ANFI_SERVER_URL: https://anfiteatro.example.com or http://192.168.178.xx
+    #Optional give server URL (will be hardcoded)
     image: j4ckgrey/anfiteatro:latest
     container_name: anfiteatro
     ports:
