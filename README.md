@@ -39,14 +39,14 @@ To install on a Samsung Smart TV (Tizen OS):
 ### Docker (Self-Hosted)
 The recommended public image is on Docker Hub:
 ```bash
-docker pull j4ckgrey/anfiteatro_releases:latest
+docker pull j4ckgrey/anfiteatro:latest
 ```
 
 #### Docker Compose
 ```yaml
 services:
   anfiteatro:
-    image: j4ckgrey/anfiteatro_releases:latest
+    image: j4ckgrey/anfiteatro:latest
     container_name: anfiteatro
     ports:
       - "6661:80"
